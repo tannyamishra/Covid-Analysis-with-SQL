@@ -5,5 +5,5 @@
 
 ## Tools And Technologies: 
 #### SQL - Microsoft SQL Server
-#### Data Visualization - Tableau
+
 
